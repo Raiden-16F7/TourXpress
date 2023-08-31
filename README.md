@@ -38,3 +38,6 @@ Follow these steps to get TourXpress up and running:
     Tailwind CSS
     Google Places API
     RapidAPIs
+
+## Created By 
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/Social-handle-(Dark)-[remix].gif" alt="TourXpress Logo" width="450" height="150" />
