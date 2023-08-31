@@ -14,9 +14,9 @@ TourXpress is a modern and user-friendly travel app developed in React Native, s
 
 ## Screenshots
 <p align="center">
-<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230830-190507_Expo_Go.png" alt="TourXpress Logo" width="300" height="770" />
-<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230831-114110_TourXpress.png" alt="TourXpress Logo" width="300" height="770" />
-<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230831-114202_TourXpress.png" alt="TourXpress Logo" width="300" height="770" />
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230830-190507_Expo_Go.png" alt="TourXpress Logo" width="250" height="570" />
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230831-114110_TourXpress.png" alt="TourXpress Logo" width="250" height="570" />
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230831-114202_TourXpress.png" alt="TourXpress Logo" width="250" height="570" />
 </p>
 
 ## Getting Started
