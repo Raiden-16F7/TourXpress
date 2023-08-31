@@ -1,5 +1,5 @@
 # TourXpress - Your Ultimate Travel Companion
-<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/assets/adaptive-icon.png" alt="TourXpress Logo" width="300" height="300" />
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/Cover.png" alt="TourXpress Logo" width="1024" height="568" />
 
 TourXpress is a modern and user-friendly travel app developed in React Native, styled with Tailwind CSS. It integrates seamlessly with the Google Places API and RapidAPIs, providing a comprehensive travel experience for users.
 
@@ -13,10 +13,11 @@ TourXpress is a modern and user-friendly travel app developed in React Native, s
 - Stunning UI with Tailwind CSS: Enjoy a beautiful and responsive user interface created using Tailwind CSS.
 
 ## Screenshots
-
-![Home Screen](screenshots/home-screen.png)
-![Destination Details](screenshots/destination-details.png)
-![Itinerary Planner](screenshots/itinerary-planner.png)
+<p align="center">
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230830-190507_Expo_Go.png" alt="TourXpress Logo" width="300" height="770" />
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230831-114110_TourXpress.png" alt="TourXpress Logo" width="300" height="770" />
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/screenshots/Screenshot_20230831-114202_TourXpress.png" alt="TourXpress Logo" width="300" height="770" />
+</p>
 
 ## Getting Started
 
@@ -25,7 +26,7 @@ Follow these steps to get TourXpress up and running:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TourXpress.git
+   git clone https://github.com/Raiden-16F7/TourXpress.git
 
 2. Run the following Command
    ```
