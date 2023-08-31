@@ -1,6 +1,5 @@
 # TourXpress - Your Ultimate Travel Companion
-
-![TourXpress Logo]('../')
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/assets/adaptive-icon.png" alt="TourXpress Logo" width="300" height="300" />
 
 TourXpress is a modern and user-friendly travel app developed in React Native, styled with Tailwind CSS. It integrates seamlessly with the Google Places API and RapidAPIs, providing a comprehensive travel experience for users.
 
